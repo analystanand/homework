@@ -1,0 +1,150 @@
+Epoch 1/50
+Train Loss: 1.7964; Accuracy: 0.3260
+Test Loss: 1.6615; Accuracy: 0.4163
+Epoch 2/50
+Train Loss: 1.3983; Accuracy: 0.4872
+Test Loss: 1.2300; Accuracy: 0.5650
+Epoch 3/50
+Train Loss: 1.1673; Accuracy: 0.5775
+Test Loss: 1.3603; Accuracy: 0.5894
+Epoch 4/50
+Train Loss: 1.0128; Accuracy: 0.6359
+Test Loss: 1.1496; Accuracy: 0.6482
+Epoch 5/50
+Train Loss: 0.9066; Accuracy: 0.6753
+Test Loss: 0.8905; Accuracy: 0.6768
+Epoch 6/50
+Train Loss: 0.8260; Accuracy: 0.7049
+Test Loss: 0.9031; Accuracy: 0.6870
+Epoch 7/50
+Train Loss: 0.7637; Accuracy: 0.7277
+Test Loss: 0.7133; Accuracy: 0.7427
+Epoch 8/50
+Train Loss: 0.7041; Accuracy: 0.7490
+Test Loss: 0.7019; Accuracy: 0.7539
+Epoch 9/50
+Train Loss: 0.6569; Accuracy: 0.7693
+Test Loss: 0.6930; Accuracy: 0.7608
+Epoch 10/50
+Train Loss: 0.6156; Accuracy: 0.7826
+Test Loss: 0.7109; Accuracy: 0.7794
+Epoch 11/50
+Train Loss: 0.5752; Accuracy: 0.7981
+Test Loss: 0.5828; Accuracy: 0.8000
+Epoch 12/50
+Train Loss: 0.5312; Accuracy: 0.8129
+Test Loss: 0.5910; Accuracy: 0.7996
+Epoch 13/50
+Train Loss: 0.5007; Accuracy: 0.8245
+Test Loss: 0.5409; Accuracy: 0.8180
+Epoch 14/50
+Train Loss: 0.4658; Accuracy: 0.8365
+Test Loss: 0.5162; Accuracy: 0.8243
+Epoch 15/50
+Train Loss: 0.4416; Accuracy: 0.8460
+Test Loss: 0.4735; Accuracy: 0.8425
+Epoch 16/50
+Train Loss: 0.4093; Accuracy: 0.8560
+Test Loss: 0.4425; Accuracy: 0.8490
+Epoch 17/50
+Train Loss: 0.3904; Accuracy: 0.8630
+Test Loss: 0.4250; Accuracy: 0.8578
+Epoch 18/50
+Train Loss: 0.3667; Accuracy: 0.8727
+Test Loss: 0.4431; Accuracy: 0.8520
+Epoch 19/50
+Train Loss: 0.3445; Accuracy: 0.8799
+Test Loss: 0.4052; Accuracy: 0.8643
+Epoch 20/50
+Train Loss: 0.3271; Accuracy: 0.8861
+Test Loss: 0.4257; Accuracy: 0.8608
+Epoch 21/50
+Train Loss: 0.3102; Accuracy: 0.8914
+Test Loss: 0.3873; Accuracy: 0.8698
+Epoch 22/50
+Train Loss: 0.2968; Accuracy: 0.8953
+Test Loss: 0.3789; Accuracy: 0.8787
+Epoch 23/50
+Train Loss: 0.2800; Accuracy: 0.9014
+Test Loss: 0.3791; Accuracy: 0.8794
+Epoch 24/50
+Train Loss: 0.2662; Accuracy: 0.9057
+Test Loss: 0.3782; Accuracy: 0.8803
+Epoch 25/50
+Train Loss: 0.2546; Accuracy: 0.9099
+Test Loss: 0.4275; Accuracy: 0.8665
+Epoch 26/50
+Train Loss: 0.2448; Accuracy: 0.9145
+Test Loss: 0.4169; Accuracy: 0.8823
+Epoch 27/50
+Train Loss: 0.2315; Accuracy: 0.9188
+Test Loss: 0.3678; Accuracy: 0.8871
+Epoch 28/50
+Train Loss: 0.2247; Accuracy: 0.9219
+Test Loss: 0.3314; Accuracy: 0.8954
+Epoch 29/50
+Train Loss: 0.2105; Accuracy: 0.9265
+Test Loss: 0.3733; Accuracy: 0.8829
+Epoch 30/50
+Train Loss: 0.2046; Accuracy: 0.9288
+Test Loss: 0.3764; Accuracy: 0.8874
+Epoch 31/50
+Train Loss: 0.1966; Accuracy: 0.9303
+Test Loss: 0.3583; Accuracy: 0.8897
+Epoch 32/50
+Train Loss: 0.1886; Accuracy: 0.9328
+Test Loss: 0.3576; Accuracy: 0.8902
+Epoch 33/50
+Train Loss: 0.1772; Accuracy: 0.9371
+Test Loss: 0.3370; Accuracy: 0.8989
+Epoch 34/50
+Train Loss: 0.1684; Accuracy: 0.9402
+Test Loss: 0.3720; Accuracy: 0.8979
+Epoch 35/50
+Train Loss: 0.1678; Accuracy: 0.9402
+Test Loss: 0.3479; Accuracy: 0.8934
+Epoch 36/50
+Train Loss: 0.1595; Accuracy: 0.9433
+Test Loss: 0.3411; Accuracy: 0.9014
+Epoch 37/50
+Train Loss: 0.1550; Accuracy: 0.9449
+Test Loss: 0.3480; Accuracy: 0.8989
+Epoch 38/50
+Train Loss: 0.1450; Accuracy: 0.9496
+Test Loss: 0.4113; Accuracy: 0.8860
+Epoch 39/50
+Train Loss: 0.1392; Accuracy: 0.9510
+Test Loss: 0.3711; Accuracy: 0.8944
+Epoch 40/50
+Train Loss: 0.1323; Accuracy: 0.9534
+Test Loss: 0.3515; Accuracy: 0.9015
+Epoch 41/50
+Train Loss: 0.1337; Accuracy: 0.9532
+Test Loss: 0.3635; Accuracy: 0.9038
+Epoch 42/50
+Train Loss: 0.1249; Accuracy: 0.9555
+Test Loss: 0.3515; Accuracy: 0.9013
+Epoch 43/50
+Train Loss: 0.1241; Accuracy: 0.9563
+Test Loss: 0.3565; Accuracy: 0.8992
+Epoch 44/50
+Train Loss: 0.1215; Accuracy: 0.9562
+Test Loss: 0.3325; Accuracy: 0.9040
+Epoch 45/50
+Train Loss: 0.1114; Accuracy: 0.9589
+Test Loss: 0.3335; Accuracy: 0.9106
+Epoch 46/50
+Train Loss: 0.1114; Accuracy: 0.9608
+Test Loss: 0.3600; Accuracy: 0.9014
+Epoch 47/50
+Train Loss: 0.1047; Accuracy: 0.9634
+Test Loss: 0.3872; Accuracy: 0.8991
+Epoch 48/50
+Train Loss: 0.1031; Accuracy: 0.9635
+Test Loss: 0.3733; Accuracy: 0.9020
+Epoch 49/50
+Train Loss: 0.0990; Accuracy: 0.9651
+Test Loss: 0.3848; Accuracy: 0.9071
+Epoch 50/50
+Train Loss: 0.0983; Accuracy: 0.9651
+Test Loss: 0.3672; Accuracy: 0.9046

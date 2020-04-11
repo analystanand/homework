@@ -1,0 +1,305 @@
+Epoch 1/20
+Train Loss: 1.6325; Accuracy: 0.3894
+  Test Loss: 1.2979; Accuracy: 0.5239
+ Epoch 2/20
+Train Loss: 1.2067; Accuracy: 0.5639
+  Test Loss: 1.1157; Accuracy: 0.6008
+ Epoch 3/20
+Train Loss: 1.0198; Accuracy: 0.6335
+  Test Loss: 0.9495; Accuracy: 0.6612
+ Epoch 4/20
+Train Loss: 0.8974; Accuracy: 0.6796
+  Test Loss: 0.9552; Accuracy: 0.6724
+ Epoch 5/20
+Train Loss: 0.8140; Accuracy: 0.7096
+  Test Loss: 0.8280; Accuracy: 0.7113
+ Epoch 6/20
+Train Loss: 0.7395; Accuracy: 0.7381
+  Test Loss: 0.7314; Accuracy: 0.7488
+ Epoch 7/20
+Train Loss: 0.6719; Accuracy: 0.7633
+  Test Loss: 0.7055; Accuracy: 0.7586
+ Epoch 8/20
+Train Loss: 0.6145; Accuracy: 0.7832
+  Test Loss: 0.5987; Accuracy: 0.7920
+ Epoch 9/20
+Train Loss: 0.5618; Accuracy: 0.8024
+  Test Loss: 0.5898; Accuracy: 0.7953
+ Epoch 10/20
+ Train Loss: 0.5250; Accuracy: 0.8167
+  Test Loss: 0.5465; Accuracy: 0.8133
+ Epoch 11/20
+ Train Loss: 0.4867; Accuracy: 0.8289
+  Test Loss: 0.5197; Accuracy: 0.8247
+ Epoch 12/20
+ Train Loss: 0.4577; Accuracy: 0.8399
+  Test Loss: 0.4974; Accuracy: 0.8307
+ Epoch 13/20
+ Train Loss: 0.4262; Accuracy: 0.8501
+  Test Loss: 0.4561; Accuracy: 0.8464
+ Epoch 14/20
+ Train Loss: 0.4027; Accuracy: 0.8580
+  Test Loss: 0.4545; Accuracy: 0.8511
+ Epoch 15/20
+ Train Loss: 0.3800; Accuracy: 0.8668
+  Test Loss: 0.4722; Accuracy: 0.8403
+ Epoch 16/20
+ Train Loss: 0.3615; Accuracy: 0.8748
+  Test Loss: 0.4440; Accuracy: 0.8550
+ Epoch 17/20
+ Train Loss: 0.3428; Accuracy: 0.8808
+  Test Loss: 0.4266; Accuracy: 0.8563
+ Epoch 18/20
+ Train Loss: 0.3288; Accuracy: 0.8837
+  Test Loss: 0.4121; Accuracy: 0.8661
+ Epoch 19/20
+ Train Loss: 0.3053; Accuracy: 0.8945
+  Test Loss: 0.4058; Accuracy: 0.8706
+ Epoch 20/20
+ Train Loss: 0.2909; Accuracy: 0.8995
+  Test Loss: 0.4093; Accuracy: 0.8657
+ Endtime %s seconds 1720.818076133728
+  Epoch 1/20
+Train Loss: 1.7663; Accuracy: 0.3341
+  Test Loss: 1.5278; Accuracy: 0.4119
+ Epoch 2/20
+Train Loss: 1.3697; Accuracy: 0.4963
+  Test Loss: 1.3422; Accuracy: 0.5326
+ Epoch 3/20
+Train Loss: 1.1455; Accuracy: 0.5859
+  Test Loss: 1.5272; Accuracy: 0.5846
+ Epoch 4/20
+Train Loss: 0.9904; Accuracy: 0.6419
+  Test Loss: 1.0801; Accuracy: 0.6160
+ Epoch 5/20
+Train Loss: 0.8866; Accuracy: 0.6835
+  Test Loss: 0.8551; Accuracy: 0.7006
+ Epoch 6/20
+Train Loss: 0.8078; Accuracy: 0.7125
+  Test Loss: 0.7646; Accuracy: 0.7341
+ Epoch 7/20
+Train Loss: 0.7440; Accuracy: 0.7355
+  Test Loss: 0.7050; Accuracy: 0.7473
+ Epoch 8/20
+Train Loss: 0.6842; Accuracy: 0.7588
+  Test Loss: 0.6530; Accuracy: 0.7705
+ Epoch 9/20
+Train Loss: 0.6354; Accuracy: 0.7765
+  Test Loss: 0.6408; Accuracy: 0.7798
+ Epoch 10/20
+ Train Loss: 0.5894; Accuracy: 0.7937
+  Test Loss: 0.6015; Accuracy: 0.7979
+ Epoch 11/20
+ Train Loss: 0.5498; Accuracy: 0.8075
+  Test Loss: 0.5924; Accuracy: 0.8002
+ Epoch 12/20
+ Train Loss: 0.5101; Accuracy: 0.8229
+  Test Loss: 0.5391; Accuracy: 0.8176
+ Epoch 13/20
+ Train Loss: 0.4800; Accuracy: 0.8329
+  Test Loss: 0.5093; Accuracy: 0.8225
+ Epoch 14/20
+ Train Loss: 0.4533; Accuracy: 0.8421
+  Test Loss: 0.5027; Accuracy: 0.8308
+ Epoch 15/20
+ Train Loss: 0.4235; Accuracy: 0.8517
+  Test Loss: 0.5175; Accuracy: 0.8372
+ Epoch 16/20
+ Train Loss: 0.4033; Accuracy: 0.8595
+  Test Loss: 0.4621; Accuracy: 0.8472
+ Epoch 17/20
+ Train Loss: 0.3784; Accuracy: 0.8667
+  Test Loss: 0.4623; Accuracy: 0.8557
+ Epoch 18/20
+ Train Loss: 0.3591; Accuracy: 0.8747
+  Test Loss: 0.4268; Accuracy: 0.8539
+ Epoch 19/20
+ Train Loss: 0.3387; Accuracy: 0.8819
+  Test Loss: 0.3848; Accuracy: 0.8640
+ Epoch 20/20
+ Train Loss: 0.3241; Accuracy: 0.8881
+  Test Loss: 0.4043; Accuracy: 0.8666
+ Endtime %s seconds 3007.9267542362213
+ Epoch 1/20
+Train Loss: 1.7197; Accuracy: 0.3611
+  Test Loss: 1.8745; Accuracy: 0.4135
+ Epoch 2/20
+Train Loss: 1.3669; Accuracy: 0.5038
+  Test Loss: 1.3841; Accuracy: 0.5102
+ Epoch 3/20
+Train Loss: 1.1939; Accuracy: 0.5703
+  Test Loss: 1.2186; Accuracy: 0.5790
+ Epoch 4/20
+Train Loss: 1.0669; Accuracy: 0.6151
+  Test Loss: 0.9806; Accuracy: 0.6412
+ Epoch 5/20
+Train Loss: 0.9727; Accuracy: 0.6508
+  Test Loss: 0.9590; Accuracy: 0.6692
+ Epoch 6/20
+Train Loss: 0.9084; Accuracy: 0.6754
+  Test Loss: 0.9141; Accuracy: 0.6880
+ Epoch 7/20
+Train Loss: 0.8364; Accuracy: 0.7011
+  Test Loss: 0.7832; Accuracy: 0.7173
+ Epoch 8/20
+Train Loss: 0.7750; Accuracy: 0.7219
+  Test Loss: 0.7816; Accuracy: 0.7296
+ Epoch 9/20
+Train Loss: 0.7355; Accuracy: 0.7406
+  Test Loss: 0.8097; Accuracy: 0.7318
+ Epoch 10/20
+ Train Loss: 0.6888; Accuracy: 0.7566
+  Test Loss: 0.6782; Accuracy: 0.7623
+ Epoch 11/20
+ Train Loss: 0.6404; Accuracy: 0.7741
+  Test Loss: 0.6730; Accuracy: 0.7722
+ Epoch 12/20
+ Train Loss: 0.6103; Accuracy: 0.7862
+  Test Loss: 0.6531; Accuracy: 0.7745
+ Epoch 13/20
+ Train Loss: 0.5777; Accuracy: 0.7975
+  Test Loss: 0.5741; Accuracy: 0.7985
+ Epoch 14/20
+ Train Loss: 0.5481; Accuracy: 0.8074
+  Test Loss: 0.5638; Accuracy: 0.8053
+ Epoch 15/20
+ Train Loss: 0.5186; Accuracy: 0.8184
+  Test Loss: 0.5494; Accuracy: 0.8089
+ Epoch 16/20
+ Train Loss: 0.5066; Accuracy: 0.8226
+  Test Loss: 0.5279; Accuracy: 0.8172
+ Epoch 17/20
+ Train Loss: 0.4758; Accuracy: 0.8333
+  Test Loss: 0.5325; Accuracy: 0.8175
+ Epoch 18/20
+ Train Loss: 0.4611; Accuracy: 0.8389
+  Test Loss: 0.4845; Accuracy: 0.8312
+ Epoch 19/20
+ Train Loss: 0.4390; Accuracy: 0.8453
+  Test Loss: 0.5241; Accuracy: 0.8273
+ Epoch 20/20
+ Train Loss: 0.4204; Accuracy: 0.8522
+  Test Loss: 0.4901; Accuracy: 0.8382
+ Endtime %s seconds 4800.249648571014
+  Epoch 1/20
+Train Loss: 1.8654; Accuracy: 0.2965
+  Test Loss: 1.6848; Accuracy: 0.3909
+ Epoch 2/20
+Train Loss: 1.4845; Accuracy: 0.4493
+  Test Loss: 2.0736; Accuracy: 0.4669
+ Epoch 3/20
+Train Loss: 1.3187; Accuracy: 0.5181
+  Test Loss: 1.5495; Accuracy: 0.5493
+ Epoch 4/20
+Train Loss: 1.1803; Accuracy: 0.5745
+  Test Loss: 1.1621; Accuracy: 0.5815
+ Epoch 5/20
+Train Loss: 1.0666; Accuracy: 0.6142
+  Test Loss: 2.7828; Accuracy: 0.6012
+ Epoch 6/20
+Train Loss: 0.9600; Accuracy: 0.6552
+  Test Loss: 0.9373; Accuracy: 0.6714
+ Epoch 7/20
+Train Loss: 0.9006; Accuracy: 0.6780
+  Test Loss: 26.5339; Accuracy: 0.2292
+  Epoch 8/20
+Train Loss: 0.9814; Accuracy: 0.6513
+  Test Loss: 0.8714; Accuracy: 0.6993
+ Epoch 9/20
+Train Loss: 0.8321; Accuracy: 0.7038
+  Test Loss: 0.9052; Accuracy: 0.6859
+ Epoch 10/20
+ Train Loss: 0.7824; Accuracy: 0.7217
+  Test Loss: 1.2301; Accuracy: 0.7060
+ Epoch 11/20
+ Train Loss: 0.7202; Accuracy: 0.7472
+  Test Loss: 0.7129; Accuracy: 0.7504
+ Epoch 12/20
+ Train Loss: 0.6794; Accuracy: 0.7581
+  Test Loss: 0.6848; Accuracy: 0.7581
+ Epoch 13/20
+ Train Loss: 0.6439; Accuracy: 0.7707
+  Test Loss: 0.6460; Accuracy: 0.7742
+ Epoch 14/20
+ Train Loss: 0.6162; Accuracy: 0.7821
+  Test Loss: 1.3959; Accuracy: 0.7532
+ Epoch 15/20
+ Train Loss: 0.5877; Accuracy: 0.7925
+  Test Loss: 0.6771; Accuracy: 0.7860
+ Epoch 16/20
+ Train Loss: 0.5826; Accuracy: 0.7941
+  Test Loss: 0.7863; Accuracy: 0.7804
+ Epoch 17/20
+ Train Loss: 0.5448; Accuracy: 0.8096
+  Test Loss: 2.5127; Accuracy: 0.7678
+ Epoch 18/20
+ Train Loss: 0.5188; Accuracy: 0.8166
+  Test Loss: 1.8456; Accuracy: 0.7665
+ Epoch 19/20
+ Train Loss: 0.4934; Accuracy: 0.8279
+  Test Loss: 0.5126; Accuracy: 0.8212
+ Epoch 20/20
+ Train Loss: 0.4778; Accuracy: 0.8322
+  Test Loss: 0.5572; Accuracy: 0.8140
+ Endtime %s seconds 8413.588721513748
+  Epoch 1/20
+Train Loss: 1.9518; Accuracy: 0.2618
+  Test Loss: 1.7691; Accuracy: 0.3247
+ Epoch 2/20
+Train Loss: 1.5830; Accuracy: 0.4010
+  Test Loss: 1.4626; Accuracy: 0.4532
+ Epoch 3/20
+Train Loss: 1.3801; Accuracy: 0.4929
+  Test Loss: 1.3197; Accuracy: 0.5185
+ Epoch 4/20
+Train Loss: 1.2311; Accuracy: 0.5548
+  Test Loss: 22.2251; Accuracy: 0.4115
+  Epoch 5/20
+Train Loss: 1.1231; Accuracy: 0.5945
+  Test Loss: 1.1566; Accuracy: 0.6233
+ Epoch 6/20
+Train Loss: 1.0233; Accuracy: 0.6287
+  Test Loss: 1.8659; Accuracy: 0.6083
+ Epoch 7/20
+Train Loss: 0.9509; Accuracy: 0.6559
+  Test Loss: 1.7610; Accuracy: 0.5582
+ Epoch 8/20
+Train Loss: 0.8894; Accuracy: 0.6779
+  Test Loss: 0.9258; Accuracy: 0.6715
+ Epoch 9/20
+Train Loss: 0.8140; Accuracy: 0.7091
+  Test Loss: 0.8581; Accuracy: 0.6977
+ Epoch 10/20
+ Train Loss: 0.7793; Accuracy: 0.7231
+  Test Loss: 0.8369; Accuracy: 0.7307
+ Epoch 11/20
+ Train Loss: 0.7354; Accuracy: 0.7375
+  Test Loss: 0.7035; Accuracy: 0.7511
+ Epoch 12/20
+ Train Loss: 0.6769; Accuracy: 0.7601
+  Test Loss: 0.6960; Accuracy: 0.7563
+ Epoch 13/20
+ Train Loss: 0.6439; Accuracy: 0.7731
+  Test Loss: 0.6559; Accuracy: 0.7790
+ Epoch 14/20
+ Train Loss: 0.6086; Accuracy: 0.7857
+  Test Loss: 0.5993; Accuracy: 0.7893
+ Epoch 15/20
+ Train Loss: 0.5831; Accuracy: 0.7953
+  Test Loss: 1.0985; Accuracy: 0.7654
+ Epoch 16/20
+ Train Loss: 0.5637; Accuracy: 0.8028
+  Test Loss: 1.5837; Accuracy: 0.7894
+ Epoch 17/20
+ Train Loss: 0.5817; Accuracy: 0.7959
+  Test Loss: 0.6324; Accuracy: 0.7915
+ Epoch 18/20
+ Train Loss: 0.5218; Accuracy: 0.8169
+  Test Loss: 0.5582; Accuracy: 0.8197
+ Epoch 19/20
+ Train Loss: 0.4813; Accuracy: 0.8306
+  Test Loss: 0.5308; Accuracy: 0.8162
+ Epoch 20/20
+ Train Loss: 0.4657; Accuracy: 0.8369
+  Test Loss: 0.5203; Accuracy: 0.8237
+ Endtime %s seconds 12514.410476207733
